@@ -26,9 +26,9 @@ export default {
       firstValue:0,
       secondValue:0,
       answerVulue:0,
-      firstName:'Napat',
-      LastName:'Bourban',
-      id:"6404101359"
+      firstName:'Kanitnan',
+      LastName:'Thongsakul',
+      id:"6404101354"
     }
   },
   methods: {
